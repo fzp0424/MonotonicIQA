@@ -2,7 +2,6 @@
 
 The code for [[2209.10451\] Learning from Mixed Datasets: A Monotonic Image Quality Assessment Model (arxiv.org)](https://arxiv.org/abs/2209.10451)
 
-![Fig2](C:\Users\pp\Desktop\IET_Final\Fig2.png)
 
 # Requirements:
 
