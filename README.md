@@ -20,7 +20,7 @@ sample_name.m
 
 combine_pmtrain.m
 
-##Train on the mixed datasets for 10 sessions
+## Train on the mixed datasets for 10 sessions
 
 python Main.py --train True --network basecnn --representation BCNN --batch_size 32 --image_size 384 --lr 3e-4 --decay_interval 3 --decay_ratio 0.9 --max_epochs 24 --backbone resnet34
 
